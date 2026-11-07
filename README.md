@@ -23,9 +23,6 @@ This project analyses Latvia's 2024 IMF Country Report (No. 24/284) using Python
 7. LLM evaluation and financial data verification.
 8. Four-panel financial dashboard at 300 DPI.
 
-## Tools
-
-Python, Google Colab, PyPDF, Transformers, Sentence Transformers, FAISS, Pandas, NumPy and Matplotlib.
 
 ## How to Run
 
